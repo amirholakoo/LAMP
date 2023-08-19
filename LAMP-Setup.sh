@@ -4,8 +4,8 @@
  #######################################
  # FIRST YOU NEED TO RUN THESE 2 CMD:
  # cd /home/admin/Downloads
- # sudo chmod +x setup.sh
- # sudo ./setup.sh
+ # sudo chmod +x LAMP-Setup.sh
+ # sudo ./LAMP-Setup.sh
 
  # YOU WILL NEED ACTIVATION CODE AS WELL AS ENTERING PASSWORD AND STUFF
  # AND YOU HAVE TO ENTER OR EDIT COFIG FILES WHILE THERE ARE OPEN FOR
