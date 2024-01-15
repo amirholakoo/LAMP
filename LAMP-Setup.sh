@@ -104,7 +104,7 @@
 
  # Set Permissions 
  sudo chown -R admin:www-data /var/www/html/ 
- sudo chmod -R 770 /var/www/html/ 
+ sudo chmod -R 775 /var/www/html/ 
  ls -al  
 
  # Open MySQL to add user
